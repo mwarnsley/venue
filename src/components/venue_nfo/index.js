@@ -18,7 +18,7 @@ const VenueInfo = () => {
                     style={{ background: `url(${icon_calendar})` }}
                   />
                   <div className="vn_title">Event Date & Time</div>
-                  <div className="vn_desc">7 August 2017 @10.00 pm</div>
+                  <div className="vn_desc">16 March 2019 @10.00 pm</div>
                 </div>
               </div>
             </div>
@@ -33,7 +33,7 @@ const VenueInfo = () => {
                     style={{ background: `url(${icon_calendar})` }}
                   />
                   <div className="vn_title">Event Location</div>
-                  <div className="vn_desc">7 August 2017 @10.00 pm</div>
+                  <div className="vn_desc">Sydney, Australia</div>
                 </div>
               </div>
             </div>
