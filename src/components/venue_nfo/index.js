@@ -30,10 +30,12 @@ const VenueInfo = () => {
                   <div className="vn_icon_square bck_yellow" />
                   <div
                     className="vn_icon"
-                    style={{ background: `url(${icon_calendar})` }}
+                    style={{ background: `url(${icon_location})` }}
                   />
                   <div className="vn_title">Event Location</div>
-                  <div className="vn_desc">Sydney, Australia</div>
+                  <div className="vn_desc">
+                    ICC Sydney Center Sydney, Australia
+                  </div>
                 </div>
               </div>
             </div>
